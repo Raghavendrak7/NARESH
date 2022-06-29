@@ -6,7 +6,7 @@ public class Reg {
 		 try
 		 {
 			 Class.forName("com.mysql.cj.jdbc.Driver");
-			 Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/gsixp","root","nareshchikku25");
+			 Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/jp1","root","kosigi");
 			 return conn;
 		 }
 		 catch(ClassNotFoundException ex)
