@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+body {
+	text-align: center;
+	background-image: url("al.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}

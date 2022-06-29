@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url("helpcenter.png");
+	background-size:cover;
+}
+table{
+	width:100%;
+	text-align:center;
+}
+.initial{
+	width: 1000px;
+	margin: 20px auto 0px auto;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 18px;
+	border-radius: 5px;
+}
+.pdetails{
+	width: 1000px;
+	margin: 20px auto 0px auto;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 18px;
+	border-radius: 5px;
+}
+.paddress{
+	width: 1000px;
+	margin: 10px auto 0px auto;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 18px;
+	border-radius: 5px;
+}
+.cdetails{
+	width: 1000px;
+	margin: 10px auto 0px auto;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 18px;
+	border-radius: 5px;
+}
+.listof{
+	width: 1000px;
+	margin: 10px auto 0px auto;
+	background-color: rgba(0,0,0,0.5);
+	font-size: 18px;
+	border-radius: 5px;
+}
+.sub{
+	margin: 10px auto 0px auto;
+	text-align:center;
+		background-color: #ff9999;
+}
+h2{
+	text-align: center;
+}
